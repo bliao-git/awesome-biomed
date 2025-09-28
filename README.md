@@ -9,4 +9,8 @@ todo
 - drug repurposing
 - activity-chemical relations, e.g. excercise and sugar level within human body, pregnancy, etc
 
-reference resources: databases like chembl
+reference resources: 
+- databases: chembl, etc
+- gov docs/blogs: CDC, diabetes.org, sleepfoundation.org
+- academia: pubmed, etc
+- wiki
