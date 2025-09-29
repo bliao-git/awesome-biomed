@@ -12,5 +12,5 @@ todo
 reference resources: 
 - databases: chembl, etc
 - gov/ngo docs/blogs: CDC, diabetes.org, sleepfoundation.org, aasm.org, thensf.org
-- academia: pubmed, etc
+- academia: pubmed, hopkinsmedicine.org, health.harvard.edu
 - wiki
