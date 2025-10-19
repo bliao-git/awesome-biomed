@@ -3,7 +3,7 @@ awesome biomedical resources
 
 todo
 - terminology/entity
-- drug/molecule-disease/protein relations, chembl
+- drug/molecule-disease/protein relations, e.g. chembl
 - nutrition in food and implications, e.g. protein percentage, GI index
 - drug-drug/food interaction
 - drug repurposing
@@ -13,7 +13,7 @@ reference resources:
 - databases: chembl, etc
 - gov/ngo docs/blogs: 
   - CDC, nih, odphp
-  - diabetes.org, 
+  - diabetes.org, medlineplus.gov
   - sleepfoundation.org, aasm.org, thensf.org
 - academia: pubmed, hopkinsmedicine.org, health.harvard.edu
 - wiki
