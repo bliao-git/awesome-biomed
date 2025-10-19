@@ -15,7 +15,10 @@ reference resources:
   - CDC, nih, odphp
   - diabetes.org, medlineplus.gov
   - sleepfoundation.org, aasm.org, thensf.org
-- academia: pubmed, hopkinsmedicine.org, health.harvard.edu
+- academia: 
+  - pubmed, 
+  - hopkinsmedicine.org, health.harvard.edu
+  - clevelandclinic.org
 - wiki
 
 
